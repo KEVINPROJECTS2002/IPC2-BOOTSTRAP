@@ -1,0 +1,33 @@
+#fondo{
+    background-image: url("https://media.revistagq.com/photos/6273edebab8c0fea708155d0/16:9/w_2560%2Cc_limit/GettyImages-1314656208.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.divs{
+    background-color: black;
+    opacity: 85%;
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.contenedor{
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 3%;
+}
+
+.texto{
+    color: white;
+    font-family: fantasy;
+    text-align: center;
+}
